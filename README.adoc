@@ -1,4 +1,4 @@
-คำสั่งที่ใช้งาน LotusMegaBot
+คำสั่งที่ใช้งาน LotusMegaBot for Arduino IDE
 //////////////////////////////
 www.lotus-arduibot.com
 //////////////////////////////
